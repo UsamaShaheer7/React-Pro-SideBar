@@ -1,0 +1,30 @@
+.sidebarWrapperCustom .css-1wvake5 {
+  background-color: white;
+  border: white;
+}
+.sidebarWrapperCustom {
+  background-color: #113d4e;
+}
+@media only screen and (max-width: 1023px) {
+  .sidebarWrapperCustom {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+  }
+}
+.sidebarWrapperCustom .css-dip3t8 {
+  background-color: #113d4e;
+  border-top-right-radius: 25px;
+}
+.sidebarWrapperCustom .css-ewdv3l {
+  padding-top: 14px;
+}
+.sidebarWrapperCustom .ps-menu-button:hover {
+  background-color: #03171f !important;
+  color: white;
+}
+
+.sidebarWrapperCustom .css-ewdv3l {
+  padding-top: 14px;
+  background-color: #113d4e;
+}
